@@ -1,5 +1,5 @@
 # AISSE Ardunio Bootcamp
-This is the folder structure and core files for students to participate in the TempeHS Ardunio Bootcamp
+This is the folder structure and core files for students to participate in the AISSE Ardunio Bootcamp
 
 ## Before you begin:
   1. Install [Arduino IDE for Windows & MAC](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)
