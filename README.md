@@ -3,6 +3,7 @@ This is the folder structure and core files for students to participate in the A
 
 ## Before you begin:
   1. Install [Arduino IDE for Windows & MAC](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)
+  2. Setup [TinkerCad Account](https://www.tinkercad.com/)
 
 ## Links:
 1. [AISSE Arduino Boilerplate](https://github.com/AIS-SE/AISSE_Arduino_Boilerplate) - Including the school sensor, module, shield and electronic component catalogue.
