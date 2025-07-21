@@ -3,7 +3,7 @@ This is the folder structure and core files for students to participate in the A
 
 ## Before you begin:
   1. Install [Arduino IDE for Windows & MAC](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)
-  2. [Boards manager > Arduino Uno R4 Wifi](https://docs.arduino.cc/tutorials/uno-r4-wifi/r4-wifi-getting-started/)
+  2. In the Arduino IDE select [Boards manager > Arduino Uno R4 Wifi](https://docs.arduino.cc/tutorials/uno-r4-wifi/r4-wifi-getting-started/)
   3. Setup [TinkerCad Account](https://www.tinkercad.com/)
 
 ## Links:
