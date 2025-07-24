@@ -29,3 +29,10 @@
     * Knight Rider: [https://www.arduino.cc/en/Tutorial/KnightRider/](https://www.arduino.cc/en/Tutorial/KnightRider/)
 */
 
+void setup() {
+
+}
+
+void loop() {
+
+}
