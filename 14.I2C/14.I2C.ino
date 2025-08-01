@@ -21,9 +21,9 @@
 
   Examples:
     OLED: https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/Sensor%20Kit/0.96_OLED_Display/0.96_OLED_Display.ino
-    3 Axis: Acceleromter: https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/Sensor%20Kit/3_Axis_Accel_Sensor/3_Axis_Accel_Sensor.ino
-    Temperature & Humidity: https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/Sensor%20Kit/Temp_and_Humid_Sensor/Temp_and_Humid_Sensor.ino
-    Air Pressure Sensor: https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/Sensor%20Kit/Air_Pressure_Sensor/Air_Pressure_Sensor.ino
+    3 Axis: Accelerometer: https://github.com/AIS-SE/AISSE_Arduino_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/Sensor_Kit/3_Axis_Accel_Sensor/3_Axis_Accel_Sensor.ino
+    Temperature & Humidity: https://github.com/AIS-SE/AISSE_Arduino_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Temp_and_Humid_Sensor/Temp_and_Humid_Sensor.ino
+    Air Pressure Sensor: https://github.com/AIS-SE/AISSE_Arduino_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Air_Pressure_Sensor/Air_Pressure_Sensor.ino
 */
 
 #include <Wire.h>
